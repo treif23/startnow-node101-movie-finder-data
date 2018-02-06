@@ -1,0 +1,1 @@
+This project was using code to access the OMDb api in order to display info about the requested movie. 
